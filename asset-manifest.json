@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/marinatorelli.github.io/static/css/main.35b57583.css",
+    "main.js": "/marinatorelli.github.io/static/js/main.ab1a38f3.js",
+    "static/media/MarinaTorelliCV.pdf": "/marinatorelli.github.io/static/media/MarinaTorelliCV.a862e9b1699d9f135886.pdf",
+    "index.html": "/marinatorelli.github.io/index.html",
+    "main.35b57583.css.map": "/marinatorelli.github.io/static/css/main.35b57583.css.map",
+    "main.ab1a38f3.js.map": "/marinatorelli.github.io/static/js/main.ab1a38f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35b57583.css",
+    "static/js/main.ab1a38f3.js"
+  ]
+}

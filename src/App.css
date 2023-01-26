@@ -1,14 +1,29 @@
 .App {
   text-align: center;
+
+}
+
+.text::selection {
+  background: cadetblue;
+  color: #fff;
+  text-shadow: none;
 }
 
 .container {
+  /* height: 100vh;
+  width: 100vw; */
+
   padding: 20%;
+  /* overflow: hidden; */
+  /* position: fixed; */
+  /* background-color: red; */
 }
 
 .title {
   font-size: 3em;
+  font-weight: bold;
   padding-bottom: 0.3em;
+  /* text-shadow: 0.05em 0.05em 0 cadetblue; */
 }
 
 .subtitle {
@@ -20,15 +35,25 @@
   font-size: 1.5em;
 }
 
+.resume-a::selection {
+  background: black;
+  color: #fff;
+}
+
 .resume {
   font-size: 1.5em;
   font-weight: bold;
   margin-top: 1em;
-
 }
+
+
 
 .icons {
   margin-top: 10em;
+}
+
+.icon::selection {
+  background: white;
 }
 
 .icon {

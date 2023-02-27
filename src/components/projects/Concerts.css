@@ -1,0 +1,50 @@
+.container_concerts {
+  padding: 6% 14% 0 14%;
+}
+.container_concerts img {
+  width: 60%;
+  margin-top: 2em;
+}
+.description_greenupweb {
+  width: 46%;
+  text-align: right;
+  font-weight: 300;
+}
+.container_concerts .title_section {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+}
+.single_bullet {
+  display: flex;
+}
+
+.single_bullet .bold {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+  .container_concerts {
+    padding: 3%;
+  }
+  .description_concerts {
+    padding: 0 7%;
+    width: auto;
+  }
+  .container_concerts .title_section {
+    margin-bottom: 2em;
+    display: block;
+  }
+  .container_concerts img {
+    width: 100%;
+  }
+  /* .container_greenupapp .summary {
+        text-align: right;
+      } */
+  .single_bullet {
+    margin-bottom: 0.5em;
+    font-weight: 300;
+    font-size: 0.9em;
+    /* text-align: right; */
+  }
+}

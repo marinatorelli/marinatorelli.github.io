@@ -1,0 +1,46 @@
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0;
+}
+
+.active-link li {
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  color: #181818;
+}
+.active-link-logo li {
+  background-color: #181818;
+  color: white;
+  border-radius: 4px;
+}
+
+.nonactive-link li {
+  color: #181818;
+}
+
+li {
+  float: left;
+  /* padding: 1em; */
+  padding: 0.4em 0.3em;
+  margin: 1em;
+}
+
+.initials {
+  font-weight: bolder;
+  font-size: 1.5em;
+}
+
+@media screen and (max-width: 768px) {
+  nav {
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    margin: 0;
+    z-index: 9999;
+  }
+}

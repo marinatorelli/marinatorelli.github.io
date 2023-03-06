@@ -27,15 +27,16 @@ const Projects = () => {
           <div className="title_projects">Projects</div>
           <div className="description_projects">
             {/* I'm passionate about creating new pieces of tech or design.  */}
-            I'm passionate about tech and design and creating projects from
-            which I can learn. Some of the projects here are university
-            coursework, for my own startup, or just for fun!
+            I love making projects in which I can be creative and learn new
+            things. Some of the projects here are university coursework, for my
+            own startup, or just for fun!
           </div>
         </div>
         <div className="row">
           <div className="project-card">
             <Link to="greenup-mobile">
               <img src={greenupApp} alt="Concerts Page thumbnail" />
+              <div className="type-tag">STARTUP</div>
               <div className="project-title">GreenUp Mobile App</div>
               <div className="project-subtitle">
                 Design and Full Stack Development
@@ -52,6 +53,7 @@ const Projects = () => {
           <div className="project-card">
             <Link to="greenup-web">
               <img src={greenupWeb} />
+              <div className="type-tag">STARTUP</div>
               <div className="project-title">GreenUp Landing Web</div>
               <div className="project-subtitle">Design and Development</div>
               <div className="tech-stack">
@@ -63,6 +65,7 @@ const Projects = () => {
             <Link to="popularity-contest">
               <img src={popularity} />
               <div className="wip-tag">WIP</div>
+              <div className="type-tag">PERSONAL</div>
               <div className="project-title">Popularity Contest</div>
               <div className="project-subtitle">Spotify API game</div>
               <div className="tech-stack">
@@ -74,6 +77,7 @@ const Projects = () => {
           <div className="project-card">
             <Link to="pacman-heuristics">
               <img src={pacman} />
+              <div className="type-tag">UNI</div>
               <div className="project-title">Pac-Man Heuristics</div>
               <div className="project-subtitle">Machine Learning</div>
               <div className="tech-stack">
@@ -85,6 +89,7 @@ const Projects = () => {
             <Link to="conjugate">
               <img src={conjugate} />
               <div className="wip-tag">WIP</div>
+              <div className="type-tag">PERSONAL</div>
               <div className="project-title">Conjugate Spanish Verbs</div>
               <div className="project-subtitle">Full Stack Web Development</div>
               <div className="tech-stack">
@@ -95,6 +100,7 @@ const Projects = () => {
           <div className="project-card">
             <Link to="oscars-predictions">
               <img src={oscars} />
+              <div className="type-tag">UNI</div>
               <div className="project-title">Oscars Predictions</div>
               <div className="project-subtitle">AI classification task</div>
               <div className="tech-stack">
@@ -106,6 +112,7 @@ const Projects = () => {
           <div className="project-card">
             <Link to="concerts">
               <img src={concerts} />
+              <div className="type-tag">UNI</div>
               <div className="project-title">Concerts Page</div>
               <div className="project-subtitle">
                 UX/UI design and prototyping

@@ -22,7 +22,8 @@ const Home = () => {
         > */}
       <div className="container_home">
         <div className="title text-purple">
-          Hi, <p className="text-purple">I'm Marina Torelli</p>
+          <p className="text-purple">Hi,</p>{" "}
+          <p className="text-purple">I'm Marina Torelli</p>
         </div>
         <div className="subtitle text-dark">
           I’m a recent Computer Science and Engineering university graduate

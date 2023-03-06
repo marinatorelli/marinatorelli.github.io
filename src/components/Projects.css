@@ -21,10 +21,27 @@ img {
   text-align: center;
   position: absolute;
   right: 20px;
-  bottom: 20px;
+  bottom: 14px;
+}
+.type-tag {
+  font-family: "Righteous";
+  height: 30px;
+  width: 100px;
+  line-height: 30px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #9293eb;
+  /* background-color: #9293eb; */
+  color: #9293eb;
+  font-size: 1em;
+  font-weight: 500;
+  text-align: center;
+  position: absolute;
+  right: 16px;
+  bottom: 76px;
 }
 .description_projects {
-  width: 46%;
+  width: 50%;
   text-align: right;
   font-weight: 300;
 }

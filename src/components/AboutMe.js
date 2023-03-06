@@ -20,65 +20,66 @@ const AboutMe = () => {
         <div className="middle-section">
           {" "}
           <img src={portrait} />{" "}
-          <div className="about-info">
-            <p>
-              I'm interested in all things tech and design.
+          <div className="right-section">
+            <div className="about-info">
               <p>
-                During the final years of my univeristy degree I've specialised
-                in AI, ML, data and computation.
+                I'm interested in all things tech and design.
+                <p>
+                  During the final years of my univeristy degree I've
+                  specialised in AI, ML, data and computation.
+                </p>
               </p>
-            </p>
-            <p>
-              I'm also really into UI/UX design and web, mobile and API
-              development.
-            </p>
-            <p>
-              During this last year, I've become more and more interested in
-              enterpreneurship and sustainability. Since January 2022, I'm the
-              co-founder and CTO of GreenUp Cities, a startup project I created
-              with some friends that approaches urban sustainability through
-              vertical gardens and citizen participation.
-            </p>
-            <p>
-              For my Degree's Final Project I developed a Full Stack iOS mobile
-              app for this startup. I got a mark of 9.2 out of 10.
-            </p>
-            <p>
-              I co-authored a paper about the project that was selected for the
-              womENcourage 2022 conference in Cyprus, by the Association for
-              Computing Machinery (ACM). I was given a scholarship by my
-              university to attend the conference and present the poster.
-            </p>
-          </div>
-        </div>
-
-        <div className="contact">
-          <div className="email text">
-            <a
-              className="text"
-              target="_blank"
-              href="https://www.linkedin.com/in/marina-torelli/"
-            >
-              linkedin.com/in/marina-torelli
-            </a>
-          </div>
-          <div className="email text">
-            <a
-              className="text"
-              target="_blank"
-              href="mailto:marinatorelli31@gmail.com"
-            >
-              marinatorelli31@gmail.com
-            </a>
-          </div>
-          <div className="email text">
-            <a
-              className="text"
-              target="_blank"
-              href="https://github.com/marinatorelli"
-            >
-              github.com/marinatorelli
-            </a>
+              <p>
+                I'm also really into UI/UX design and web, mobile and API
+                development.
+              </p>
+              <p>
+                During this last year, I've become more and more interested in
+                enterpreneurship and sustainability. Since January 2022, I'm the
+                co-founder and CTO of GreenUp Cities, a startup project I
+                created with some friends that approaches urban sustainability
+                through vertical gardens and citizen participation.
+              </p>
+              <p>
+                For my Degree's Final Project I developed a Full Stack iOS
+                mobile app for this startup. I got a mark of 9.2 out of 10.
+              </p>
+              <p>
+                I co-authored a paper about the project that was selected for
+                the womENcourage 2022 conference in Cyprus, by the Association
+                for Computing Machinery (ACM). I was given a scholarship by my
+                university to attend the conference and present the poster.
+              </p>
+            </div>
+            <div className="contact">
+              <div className="email text">
+                <a
+                  className="text"
+                  target="_blank"
+                  href="https://www.linkedin.com/in/marina-torelli/"
+                >
+                  linkedin.com/in/marina-torelli
+                </a>
+              </div>
+              <div className="email text">
+                <a
+                  className="text"
+                  target="_blank"
+                  href="mailto:marinatorelli31@gmail.com"
+                >
+                  marinatorelli31@gmail.com
+                </a>
+              </div>
+              <div className="email text">
+                <a
+                  className="text"
+                  target="_blank"
+                  href="https://github.com/marinatorelli"
+                >
+                  github.com/marinatorelli
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>

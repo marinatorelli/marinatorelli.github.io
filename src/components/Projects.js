@@ -5,8 +5,8 @@ import greenupApp from "../images/mobile-app.png";
 import popularity from "../images/popularity-landing.png";
 import greenupWeb from "../images/landing-web.png";
 import conjugate from "../images/conjugate-landing.png";
-import oscars from "../images/oscars-landing.jpeg";
-import pacman from "../images/pacman-landing.jpeg";
+import oscars from "../images/oscars-landing.png";
+import pacman from "../images/pacman-landing.png";
 import "./Projects.css";
 import Navbar from "./Navbar";
 import { AnimatePresence, motion as m } from "framer-motion/dist/framer-motion";
@@ -44,6 +44,7 @@ const Projects = () => {
                 <div className="project-tech">React Native</div>
                 <div className="project-tech">NodeJS</div>
                 <div className="project-tech">MongoDB</div>
+                <div className="project-tech">Figma</div>
               </div>
             </Link>
           </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import "./ProjectsLayout.css";
-import pacman from "../../images/pacman-landing.jpeg";
+import pacman from "../../images/pacman-landing.png";
 
 const ProjectPacman = () => {
   return (

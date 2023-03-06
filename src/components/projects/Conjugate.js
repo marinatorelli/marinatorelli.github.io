@@ -14,6 +14,7 @@ const ProjectConjugate = () => {
             difficult parts of learning a romance language, conjugating verbs.
           </div>
         </div>
+        <div className="wip-tag-page">WIP</div>
         <div className="summary">
           <p className="single_bullet">
             <p className="bold">Topics: {"\0"}</p> Full Stack Web Development

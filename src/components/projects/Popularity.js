@@ -15,6 +15,7 @@ const ProjectPopularity = () => {
             is no longer supported, so I decided to remake it.
           </div>
         </div>
+        <div className="wip-tag-page">WIP</div>
         <div className="summary">
           <p className="single_bullet">
             <p className="bold">Topics: {"\0"}</p> Spotify API, Web development,

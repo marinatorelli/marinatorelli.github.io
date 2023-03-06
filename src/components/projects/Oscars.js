@@ -1,7 +1,7 @@
 import React from "react";
 // import "./Oscars.css";
 import "./ProjectsLayout.css";
-import oscars from "../../images/oscars-landing.jpeg";
+import oscars from "../../images/oscars-landing.png";
 
 const ProjectOscars = () => {
   return (

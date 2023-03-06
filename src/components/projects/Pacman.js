@@ -16,8 +16,8 @@ const ProjectPacman = () => {
         </div>
         <div className="summary">
           <p className="single_bullet">
-            <p className="bold">Aim: {"\0"}</p> Artificial Intelligence, Machine
-            Learning, Data Analysis, Reinforced Learning
+            <p className="bold">Topics: {"\0"}</p> Artificial Intelligence,
+            Machine Learning, Data Analysis, Reinforced Learning
           </p>
           {/* <p className="single_bullet">
             <p className="bold">Programmes: {"\0"}</p> Figma, Postman{" "}

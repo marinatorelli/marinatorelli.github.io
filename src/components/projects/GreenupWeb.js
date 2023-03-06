@@ -11,13 +11,13 @@ const ProjectGreenupWeb = () => {
           <div className="title_project">GreenUp Landing Web</div>
           <div className="description_project">
             As a way to position ourselves and have an online presence, I
-            developed the landing website or my own sustainability startup,
-            GreenUp.
+            developed the landing website for my own sustainability startup,
+            GreenUp Cities.
           </div>
         </div>
         <div className="summary">
           <p className="single_bullet">
-            <p className="bold">Aim: {"\0"}</p> Design, Web Development,
+            <p className="bold">Topics: {"\0"}</p> Design, Web Development,
             Responsive
           </p>
           <p className="single_bullet">

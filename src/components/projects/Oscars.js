@@ -17,7 +17,7 @@ const ProjectOscars = () => {
         </div>
         <div className="summary">
           <p className="single_bullet">
-            <p className="bold">Aim: {"\0"}</p> Artificial Intelligence,
+            <p className="bold">Topics: {"\0"}</p> Artificial Intelligence,
             Classification, Sentiment Analysis, Web Scrapping
           </p>
           {/* <p className="single_bullet">

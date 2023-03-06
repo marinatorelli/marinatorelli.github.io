@@ -35,13 +35,19 @@ const AboutMe = () => {
             <p>
               During this last year, I've become more and more interested in
               enterpreneurship and sustainability. Since January 2022, I'm the
-              co-founder and CTO of GreenUp Cities, a startup project I started
+              co-founder and CTO of GreenUp Cities, a startup project I created
               with some friends that approaches urban sustainability through
               vertical gardens and citizen participation.
             </p>
             <p>
               For my Degree's Final Project I developed a Full Stack iOS mobile
-              app for my own sustainability startup.
+              app for this startup. I got a mark of 9.2 out of 10.
+            </p>
+            <p>
+              I co-authored a paper about the project that was selected for the
+              womENcourage 2022 conference in Cyprus, by the Association for
+              Computing Machinery (ACM). I was given a scholarship by my
+              university to attend the conference and present the poster.
             </p>
           </div>
         </div>

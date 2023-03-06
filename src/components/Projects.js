@@ -4,7 +4,7 @@ import concerts from "../images/concertsLanding.png";
 import greenupApp from "../images/mobile-app.png";
 import popularity from "../images/popularity-landing.png";
 import greenupWeb from "../images/landing-web.png";
-
+import conjugate from "../images/conjugate-landing.png";
 import oscars from "../images/oscars-landing.jpeg";
 import pacman from "../images/pacman-landing.jpeg";
 import "./Projects.css";
@@ -28,8 +28,8 @@ const Projects = () => {
           <div className="description_projects">
             {/* I'm passionate about creating new pieces of tech or design.  */}
             I'm passionate about tech and design and creating projects from
-            which I can learn more about them. Some of the projects here are
-            university coursework, for my own startup, or just for fun!
+            which I can learn. Some of the projects here are university
+            coursework, for my own startup, or just for fun!
           </div>
         </div>
         <div className="row">
@@ -38,7 +38,7 @@ const Projects = () => {
               <img src={greenupApp} alt="Concerts Page thumbnail" />
               <div className="project-title">GreenUp Mobile App</div>
               <div className="project-subtitle">
-                Design and fullstack development
+                Design and Full Stack Development
               </div>
               <div className="tech-stack">
                 <div className="project-tech">React Native</div>
@@ -52,7 +52,7 @@ const Projects = () => {
             <Link to="greenup-web">
               <img src={greenupWeb} />
               <div className="project-title">GreenUp Landing Web</div>
-              <div className="project-subtitle">Design and development</div>
+              <div className="project-subtitle">Design and Development</div>
               <div className="tech-stack">
                 <div className="project-tech">ReactJS</div>
               </div>
@@ -61,6 +61,7 @@ const Projects = () => {
           <div className="project-card">
             <Link to="popularity-contest">
               <img src={popularity} />
+              <div className="wip-tag">WIP</div>
               <div className="project-title">Popularity Contest</div>
               <div className="project-subtitle">Spotify API game</div>
               <div className="tech-stack">
@@ -80,12 +81,21 @@ const Projects = () => {
             </Link>
           </div>
           <div className="project-card">
+            <Link to="conjugate">
+              <img src={conjugate} />
+              <div className="wip-tag">WIP</div>
+              <div className="project-title">Conjugate Spanish Verbs</div>
+              <div className="project-subtitle">Full Stack Web Development</div>
+              <div className="tech-stack">
+                <div className="project-tech">ReactJS</div>
+              </div>
+            </Link>
+          </div>
+          <div className="project-card">
             <Link to="oscars-predictions">
               <img src={oscars} />
               <div className="project-title">Oscars Predictions</div>
-              <div className="project-subtitle">
-                AI classification, involving sentiment analysis and text mining
-              </div>
+              <div className="project-subtitle">AI classification task</div>
               <div className="tech-stack">
                 <div className="project-tech">Python</div>
                 <div className="project-tech">Jupiter Notebooks</div>

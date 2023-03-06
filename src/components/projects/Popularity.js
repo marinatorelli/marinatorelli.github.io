@@ -17,7 +17,7 @@ const ProjectPopularity = () => {
         </div>
         <div className="summary">
           <p className="single_bullet">
-            <p className="bold">Aim: {"\0"}</p> Spotify API, Web development,
+            <p className="bold">Topics: {"\0"}</p> Spotify API, Web development,
             Responsive
           </p>
           {/* <p className="single_bullet">

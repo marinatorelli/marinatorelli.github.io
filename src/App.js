@@ -24,6 +24,7 @@ import AboutMe from "./components/AboutMe";
 import Navbar from "./components/Navbar";
 import { ScrollRestoration } from "react-router-dom";
 import { AnimatePresence, motion as m } from "framer-motion/dist/framer-motion";
+import ProjectConjugate from "./components/projects/Conjugate";
 
 function App() {
   return (
@@ -42,6 +43,7 @@ function App() {
         <Route path="projects/oscars-predictions" element={<ProjectOscars />} />
         <Route path="projects/pacman-heuristics" element={<ProjectPacman />} />
         <Route path="projects/concerts" index element={<ProjectConcerts />} />
+        <Route path="projects/conjugate" element={<ProjectConjugate />} />
       </Routes>
     </Router>
   );

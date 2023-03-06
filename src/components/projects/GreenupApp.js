@@ -18,8 +18,8 @@ const ProjectGreenupApp = () => {
         </div>
         <div className="summary">
           <p className="single_bullet">
-            <p className="bold">Aim: {"\0"}</p> Design and prototype, Mobile iOS
-            app developemnt, API development
+            <p className="bold">Topics: {"\0"}</p> Design and prototype, Mobile
+            iOS app developemnt, API development
           </p>
           <p className="single_bullet">
             <p className="bold">Programmes: {"\0"}</p> Figma, Postman{" "}
@@ -29,7 +29,7 @@ const ProjectGreenupApp = () => {
           </p>
         </div>
         <img src={appIsometric}></img>
-        {/* <img src={appSitemap}></img> */}
+        <img src={appSitemap}></img>
       </div>
     </>
   );

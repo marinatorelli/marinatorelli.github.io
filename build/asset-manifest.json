@@ -1,14 +1,27 @@
 {
-  "files": {
-    "main.css": "/static/css/main.4ba9ae46.css",
-    "main.js": "/static/js/main.84a40552.js",
-    "static/media/MarinaTorelliCV.pdf": "/static/media/MarinaTorelliCV.a862e9b1699d9f135886.pdf",
-    "index.html": "/index.html",
-    "main.4ba9ae46.css.map": "/static/css/main.4ba9ae46.css.map",
-    "main.84a40552.js.map": "/static/js/main.84a40552.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.4ba9ae46.css",
-    "static/js/main.84a40552.js"
-  ]
+  "main.css": "/static/css/main.85a5e5d9.chunk.css",
+  "main.js": "/static/js/main.ce63c968.chunk.js",
+  "main.js.map": "/static/js/main.ce63c968.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.399d9444.chunk.js": "/static/js/2.399d9444.chunk.js",
+  "static/js/2.399d9444.chunk.js.map": "/static/js/2.399d9444.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.3727e0dae362142c24aaffa1c6a267df.js": "/precache-manifest.3727e0dae362142c24aaffa1c6a267df.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.85a5e5d9.chunk.css.map": "/static/css/main.85a5e5d9.chunk.css.map",
+  "static/media/MarinaTorelliCV.pdf": "/static/media/MarinaTorelliCV.1468238c.pdf",
+  "static/media/concertsLanding.png": "/static/media/concertsLanding.14460a85.png",
+  "static/media/concerts_home.png": "/static/media/concerts_home.515cb018.png",
+  "static/media/concerts_profile.png": "/static/media/concerts_profile.92791c0a.png",
+  "static/media/concerts_recinto.png": "/static/media/concerts_recinto.60890ea3.png",
+  "static/media/concerts_signup.png": "/static/media/concerts_signup.90a1c328.png",
+  "static/media/concerts_singleconcert.png": "/static/media/concerts_singleconcert.a63dc4ad.png",
+  "static/media/landing-web.png": "/static/media/landing-web.5376118f.png",
+  "static/media/mobile-app.png": "/static/media/mobile-app.2dbc4299.png",
+  "static/media/mobile_sitemap.png": "/static/media/mobile_sitemap.d38081a4.png",
+  "static/media/oscars-landing.jpeg": "/static/media/oscars-landing.b7847304.jpeg",
+  "static/media/pacman-landing.jpeg": "/static/media/pacman-landing.0dacaffd.jpeg",
+  "static/media/popularity-landing.png": "/static/media/popularity-landing.35f85dd6.png",
+  "static/media/portrait.JPEG": "/static/media/portrait.aa6e548b.JPEG"
 }

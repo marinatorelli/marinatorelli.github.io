@@ -24,7 +24,7 @@ const ProjectConcerts = () => {
         </div>
         <div className="summary">
           <p className="single_bullet">
-            <p className="bold">Aim: {"\0"}</p> UX/UI design, Prototype, User
+            <p className="bold">Topics: {"\0"}</p> UX/UI design, Prototype, User
             Centered Design
           </p>
           <p className="single_bullet">

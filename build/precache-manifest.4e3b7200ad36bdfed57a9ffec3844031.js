@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e722256c4d0114a1a24f",
-    "url": "/static/css/main.b5b32eaa.chunk.css"
+    "revision": "5b16ff305c2d8e259d1b",
+    "url": "/static/css/main.ab50b226.chunk.css"
   },
   {
-    "revision": "e722256c4d0114a1a24f",
-    "url": "/static/js/main.61c00d1a.chunk.js"
+    "revision": "5b16ff305c2d8e259d1b",
+    "url": "/static/js/main.0611c560.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/static/media/conjugate-landing.28dec718.png"
   },
   {
-    "revision": "b7847304a0f9aae96cc02f9233a1d2e8",
-    "url": "/static/media/oscars-landing.b7847304.jpeg"
+    "revision": "aea928549c57e0bb6b0177ae60d546c9",
+    "url": "/static/media/oscars-landing.aea92854.png"
   },
   {
-    "revision": "0dacaffd74b16fb1125b34c3b0103627",
-    "url": "/static/media/pacman-landing.0dacaffd.jpeg"
+    "revision": "2e5342fa19f14e42ddd7d812baf50479",
+    "url": "/static/media/pacman-landing.2e5342fa.png"
   },
   {
     "revision": "1468238c65ea3e38251abeae434ebc79",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/media/concerts_recinto.60890ea3.png"
   },
   {
-    "revision": "303cc5f8bd9e69776d68f9c49fa7399e",
+    "revision": "b034cd0b696ebe4a479c273e286e44db",
     "url": "/index.html"
   }
 ];

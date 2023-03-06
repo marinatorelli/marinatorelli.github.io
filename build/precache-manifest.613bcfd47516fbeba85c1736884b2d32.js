@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "8678dadee5f1ad71116e",
-    "url": "/static/css/main.85a5e5d9.chunk.css"
+    "revision": "5ca3c1d1bdf2b1512dd0",
+    "url": "/static/css/main.b5b32eaa.chunk.css"
   },
   {
-    "revision": "8678dadee5f1ad71116e",
-    "url": "/static/js/main.ce63c968.chunk.js"
+    "revision": "5ca3c1d1bdf2b1512dd0",
+    "url": "/static/js/main.f0c79f15.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "6c91598fb601054df488",
-    "url": "/static/js/2.399d9444.chunk.js"
+    "revision": "9f140e16b280e23c5d2b",
+    "url": "/static/js/2.eced60a5.chunk.js"
   },
   {
     "revision": "14460a8543f3a5f99c1f759f358ee1e8",
@@ -32,6 +32,10 @@ self.__precacheManifest = [
     "url": "/static/media/landing-web.5376118f.png"
   },
   {
+    "revision": "28dec71862c3dc96399371c46182eb72",
+    "url": "/static/media/conjugate-landing.28dec718.png"
+  },
+  {
     "revision": "b7847304a0f9aae96cc02f9233a1d2e8",
     "url": "/static/media/oscars-landing.b7847304.jpeg"
   },
@@ -44,12 +48,12 @@ self.__precacheManifest = [
     "url": "/static/media/MarinaTorelliCV.1468238c.pdf"
   },
   {
-    "revision": "aa6e548bbd92d259e472da747617da12",
-    "url": "/static/media/portrait.aa6e548b.JPEG"
-  },
-  {
     "revision": "d38081a41887bb45888dbeba7d35cc16",
     "url": "/static/media/mobile_sitemap.d38081a4.png"
+  },
+  {
+    "revision": "aa6e548bbd92d259e472da747617da12",
+    "url": "/static/media/portrait.aa6e548b.JPEG"
   },
   {
     "revision": "90a1c3287aed7eff9719a108fd66ff60",
@@ -72,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/media/concerts_recinto.60890ea3.png"
   },
   {
-    "revision": "ce6dcdce9180e3717e4bf4da0d92374e",
+    "revision": "a8faa3ddec2cce0f9bb9644f520d9889",
     "url": "/index.html"
   }
 ];

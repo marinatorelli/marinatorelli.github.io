@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "5ca3c1d1bdf2b1512dd0",
+    "revision": "e722256c4d0114a1a24f",
     "url": "/static/css/main.b5b32eaa.chunk.css"
   },
   {
-    "revision": "5ca3c1d1bdf2b1512dd0",
-    "url": "/static/js/main.f0c79f15.chunk.js"
+    "revision": "e722256c4d0114a1a24f",
+    "url": "/static/js/main.61c00d1a.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "9f140e16b280e23c5d2b",
-    "url": "/static/js/2.eced60a5.chunk.js"
+    "revision": "65c8b00a03673020d549",
+    "url": "/static/js/2.26bd43da.chunk.js"
   },
   {
     "revision": "14460a8543f3a5f99c1f759f358ee1e8",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/static/media/MarinaTorelliCV.1468238c.pdf"
   },
   {
-    "revision": "d38081a41887bb45888dbeba7d35cc16",
-    "url": "/static/media/mobile_sitemap.d38081a4.png"
-  },
-  {
     "revision": "aa6e548bbd92d259e472da747617da12",
     "url": "/static/media/portrait.aa6e548b.JPEG"
+  },
+  {
+    "revision": "d38081a41887bb45888dbeba7d35cc16",
+    "url": "/static/media/mobile_sitemap.d38081a4.png"
   },
   {
     "revision": "90a1c3287aed7eff9719a108fd66ff60",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/media/concerts_recinto.60890ea3.png"
   },
   {
-    "revision": "a8faa3ddec2cce0f9bb9644f520d9889",
+    "revision": "303cc5f8bd9e69776d68f9c49fa7399e",
     "url": "/index.html"
   }
 ];

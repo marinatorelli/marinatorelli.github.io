@@ -29,7 +29,7 @@ const ProjectGreenupApp = () => {
           </p>
         </div>
         <img src={appIsometric}></img>
-        <img src={appSitemap}></img>
+        {/* <img src={appSitemap}></img> */}
       </div>
     </>
   );
